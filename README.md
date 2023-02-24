@@ -28,7 +28,6 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 <br>
-
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <br>
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
@@ -36,4 +35,4 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br>
 
-<!--- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NegiBaba&show_icons=true" alt="NegiBaba" /></p> --->
+<!--- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vipul-bagal&show_icons=true" alt="VipulBagal" /></p> --->
