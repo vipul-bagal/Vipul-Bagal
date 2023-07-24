@@ -1,7 +1,7 @@
 <h1 align="center">こんにちは 👋, I'm Vipul </h1>
-<h3 align="center">A Full Stack Software Developer</h3>
+<h3 align="center">Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NegiBaba&label=Profile%20views&color=0e75b6&style=flat" alt="NegiBaba" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NegiBaba&label=Profile%20views&color=0e75b6&style=flat" alt="Vipul" /> </p>
 
 - 🤝🏻 I’m passionate about bringing the design to their exact look and functionality in development.
 
