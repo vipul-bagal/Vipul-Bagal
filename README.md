@@ -1,4 +1,4 @@
-<h1 align="center">こんにちは 👋, I'm Vipul </h1>
+<h1 align="center"> Hello there! 👋 I'm Vipul </h1>
 <h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NegiBaba&label=Profile%20views&color=0e75b6&style=flat" alt="Vipul" /> </p>
